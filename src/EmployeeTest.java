@@ -5,5 +5,6 @@ public class EmployeeTest {
 	{
 		Employee emp=new Employee("Pavani","mavidipavani@gmail.com",635606,"8096683736");
 		System.out.println(emp.getName());
+		System.out.println(emp.getEmail());
 	}
 }
